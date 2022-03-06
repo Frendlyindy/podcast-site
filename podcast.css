@@ -1,0 +1,11 @@
+header{
+    background-color: cornflowerblue;
+    color: white;
+}
+#logo img{
+    max-height: 200px;
+    align-self: flex-end;
+}
+body{
+    background-color: beige;
+}
